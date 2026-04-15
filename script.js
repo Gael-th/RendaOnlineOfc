@@ -31,7 +31,7 @@ const posts = [
     featured: false,
     affiliate: { text: "Aplicativo recomendado →", link: "#LINK_AFILIADO" },
     image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    url: "post2.html"
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const posts = [
     featured: false,
     affiliate: { text: "Plataforma de investimentos →", link: "#LINK_AFILIADO" },
     image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    url: "post3.html"
   },
   {
     id: 4,
@@ -59,7 +59,7 @@ const posts = [
     featured: false,
     affiliate: { text: "Curso de Instagram →", link: "#LINK_AFILIADO" },
     image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    url: "post4.html"
   },
   {
     id: 5,
@@ -73,7 +73,7 @@ const posts = [
     featured: false,
     affiliate: { text: "Plataforma para freelancers →", link: "#LINK_AFILIADO" },
     image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    url: "post5.html"
   },
   {
     id: 6,
@@ -87,7 +87,7 @@ const posts = [
     featured: false,
     affiliate: { text: "Abrir conta gratuita →", link: "#LINK_AFILIADO" },
     image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    url: "post6.html"
   },
   {
   id: 7,
@@ -101,7 +101,7 @@ const posts = [
   featured: false,
   affiliate: { text: "🚀 Acessar Curso Completo →", link: "#SEU_LINK_AFILIADO" },
   image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-  url: "post.html"
+  url: "post7.html"
 },
 {
   id: 8,
@@ -115,7 +115,7 @@ const posts = [
   featured: false,
   affiliate: { text: "💜 Criar Conta no Nubank →", link: "#SEU_LINK_INDICACAO" },
   image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-  url: "post.html"
+  url: "post8.html"
 },
 {
   id: 9,
@@ -129,7 +129,7 @@ const posts = [
   featured: false,
   affiliate: { text: "📈 Testar CRM Gratuito →", link: "#SEU_LINK_CRM" },
   image: "img/curso-marketing.jpg",
-  url: "post.html"
+  url: "post9.html"
 },
 {
   id: 10,
@@ -143,7 +143,7 @@ const posts = [
   featured: false,
   affiliate: { text: "📖 Ver Livros Recomendados →", link: "#SEU_LINK_AFILIADO_AMAZON" },
   image: "img/curso-marketing.jpg",
-  url: "post.html"
+  url: "post10.html"
 },
 {
   id: 11,
@@ -157,7 +157,7 @@ const posts = [
   featured: false,
   affiliate: { text: "💰 Criar Conta na Coinbase →", link: "#SEU_LINK_INDICACAO" },
   image: "img/curso-marketing.jpg",
-  url: "post.html"
+  url: "post11.html"
 }
 ];
 
