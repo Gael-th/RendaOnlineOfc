@@ -15,9 +15,9 @@ const posts = [
     readTime: "8 min",
     icon: "💸",
     featured: true,
-    affiliate: { text: "Curso: Afiliados do Zero →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post.html"
+    affiliate: { text: "Curso: Afiliados do Zero →", link: "https://pay.cakto.com.br/CG6miE9?affiliate=bSqVZ49g" },
+    image: "img/fotodolar.png", // <--- Adicione esta linha
+    url: "afiliado.html"
   },
   {
     id: 2,
@@ -29,9 +29,9 @@ const posts = [
     readTime: "6 min",
     icon: "📱",
     featured: false,
-    affiliate: { text: "Aplicativo recomendado →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post2.html"
+    affiliate: { text: "Curso recomendado →", link: "https://pay.cakto.com.br/3uYG2vr?affiliate=WEVRpJLP" },
+    image: "img/homeoffice.jpg", // <--- Adicione esta linha
+    url: "rendaextra.html"
   },
   {
     id: 3,
@@ -43,9 +43,9 @@ const posts = [
     readTime: "7 min",
     icon: "📊",
     featured: false,
-    affiliate: { text: "Plataforma de investimentos →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post3.html"
+    affiliate: { text: "Plataforma de investimentos →", link: "https://lp.xpi.com.br/new-uptrade?utm_source=google&utm_medium=cpc&utm_campaign=plataforma-uptrade-google-performance-search-sinal_hab-xp-na-softlead-na-aquisicao-trader-hightouch&utm_term=plataforma%20de%20investimento&utm_content=779549722284&gad_source=1&gad_campaignid=22960616784&gbraid=0AAAAApZpoZ5_wm3aewwy0EMo6J9yo_xiK&gclid=Cj0KCQjwkYLPBhC3ARIsAIyHi3TqXCnVNSoNZQC8bzlo56-1mfZ0WVoglm6Gcy0vUxPeyunhgP71IO0aApNnEALw_wcB" },
+    image: "img/porquinho.jpg", // <--- Adicione esta linha
+    url: "reserva.html"
   },
   {
     id: 4,
@@ -57,9 +57,9 @@ const posts = [
     readTime: "9 min",
     icon: "📸",
     featured: false,
-    affiliate: { text: "Curso de Instagram →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post4.html"
+    affiliate: { text: "Curso de Instagram →", link: "https://pay.cakto.com.br/y7stkb2_448491?affiliate=rhrQwqKF" },
+    image: "img/engajamento.png", // <--- Adicione esta linha
+    url: "monetizacao.html"
   },
   {
     id: 5,
@@ -71,9 +71,9 @@ const posts = [
     readTime: "5 min",
     icon: "💼",
     featured: false,
-    affiliate: { text: "Plataforma para freelancers →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post5.html"
+    affiliate: { text: "Curso Recomendado →", link: "https://pay.kiwify.com.br/SVNCmuz?afid=XeRSqGYK" },
+    image: "img/acordo.jpg", // <--- Adicione esta linha
+    url: "frelancer.html"
   },
   {
     id: 6,
@@ -85,9 +85,9 @@ const posts = [
     readTime: "6 min",
     icon: "🏦",
     featured: false,
-    affiliate: { text: "Abrir conta gratuita →", link: "#LINK_AFILIADO" },
-    image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-    url: "post6.html"
+    affiliate: { text: "Simular→", link: "https://simulador.btgpactual.com/step-1?utm_channel=PaidSearch&utm_medium=spl&utm_network=g:&utm_source=google&utm_campaign=GSN_INB_BUINVEST_teste-step1-simulador_always-on_&utm_campaign_id=21769294073&utm_content=GSN_INB_BUINVEST_teste-step1-simulador_always-on__automatica_renda-variavel&utm_content_id=173920349174&utm_term=GSN_INB_BUINVEST_teste-step1-simulador_always-on__automatica_renda-variavel_dinamico_generico&utm_term_id=kwd-297945122628::b:aplica%C3%A7%C3%B5es%20financeiras:733764316265&gclsrc=aw.ds&gad_source=1&gad_campaignid=21769294073&gbraid=0AAAAADSHoCBFiZMjRwoqHm6utUJGmYQ9L&gclid=Cj0KCQjwkYLPBhC3ARIsAIyHi3TdvHQ2vHATuVwdDLCxYPXlwUAyQWIqmXOGehi9V24rQqHQOEKGHOAaAjQAEALw_wcB" },
+    image: "img/rentabilidade.jpg", // <--- Adicione esta linha
+    url: "rentabilidade.html"
   },
   {
   id: 7,
@@ -99,23 +99,23 @@ const posts = [
   readTime: "6 min",
   icon: "🎯",
   featured: false,
-  affiliate: { text: "🚀 Acessar Curso Completo →", link: "#SEU_LINK_AFILIADO" },
-  image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-  url: "post7.html"
+  affiliate: { text: "🚀 Acessar Curso Completo →", link: "https://pay.kiwify.com.br/cJiSNMp?afid=6qcpmtwW" },
+  image: "img/vendas.jpg", // <--- Adicione esta linha
+  url: "marketingdigital.html"
 },
 {
   id: 8,
-  title: "Abra sua Conta no Nubank e Comece a Organizar Seu Dinheiro Hoje",
-  excerpt: "Veja como criar sua conta no Nubank em poucos minutos e ter acesso a um banco digital sem tarifas, com controle total pelo celular.",
+  title: "Abra sua Conta no Mercado Pago e Comece a Organizar Seu Dinheiro Hoje (Guia 2026)",
+  excerpt: "Neste guia completo e atualizado, você vai aprender passo a passo como criar sua conta gratuita no Mercado Pago, verificar sua identidade e começar a organizar suas finanças pessoais de forma simples e segura.",
   category: "financas",
   categoryLabel: "Finanças",
   date: "14 Jan 2025",
   readTime: "4 min",
   icon: "💳",
   featured: false,
-  affiliate: { text: "💜 Criar Conta no Nubank →", link: "#SEU_LINK_INDICACAO" },
-  image: "img/curso-marketing.jpg", // <--- Adicione esta linha
-  url: "post8.html"
+  affiliate: { text: "Abrir uma conta →", link: "https://mpago.li/1pGLLet" },
+  image: "img/banco.png", // <--- Adicione esta linha
+  url: "bancoparceiro.html"
 },
 {
   id: 9,
@@ -127,9 +127,9 @@ const posts = [
   readTime: "5 min",
   icon: "📊",
   featured: false,
-  affiliate: { text: "📈 Testar CRM Gratuito →", link: "#SEU_LINK_CRM" },
-  image: "img/curso-marketing.jpg",
-  url: "post9.html"
+  affiliate: { text: "📈 Testar CRM Gratuito →", link: "https://share.google/VAUah267UNuy9XwIY" },
+  image: "img/logo.jpeg",
+  url: "crmprofissional.html"
 },
 {
   id: 10,
@@ -141,9 +141,9 @@ const posts = [
   readTime: "7 min",
   icon: "📚",
   featured: false,
-  affiliate: { text: "📖 Ver Livros Recomendados →", link: "#SEU_LINK_AFILIADO_AMAZON" },
-  image: "img/curso-marketing.jpg",
-  url: "post10.html"
+  affiliate: { text: "📖 Ver Livros Recomendados →", link: "https://collshp.com/nuvenzinhashopee/category/3636260?view=storefront" },
+  image: "img/livros.jpg",
+  url: "livros.html"
 },
 {
   id: 11,
@@ -155,9 +155,9 @@ const posts = [
   readTime: "5 min",
   icon: "🪙",
   featured: false,
-  affiliate: { text: "💰 Criar Conta na Coinbase →", link: "#SEU_LINK_INDICACAO" },
-  image: "img/curso-marketing.jpg",
-  url: "post11.html"
+  affiliate: { text: "💰 Criar Conta na Coinbase →", link: "https://coinbase.com/join/27E9LB8?src=referral-link" },
+  image: "img/criptomoeda.jpg",
+  url: "corretoracripto.html"
 }
 ];
 
@@ -249,22 +249,40 @@ function initFilters() {
 }
 
 // ── POSTS RELACIONADOS (post.html) ──────────────────────────
+function gerarIndicesAleatorios(qtd, max) {
+  const indices = new Set();
+
+  while (indices.size < qtd) {
+    const i = Math.floor(Math.random() * max);
+    indices.add(i);
+  }
+
+  return [...indices];
+}
+
 function renderRelatedPosts() {
   const container = document.getElementById('relatedPosts');
   if (!container) return;
 
-  const related = posts.slice(1, 4);
+  container.innerHTML = ""; // limpa antes de renderizar
+
+  const indices = gerarIndicesAleatorios(3, posts.length);
+  const related = indices.map(i => posts[i]);
+
   related.forEach(post => {
     const card = document.createElement('article');
     card.className = 'related-card';
+
     card.innerHTML = `
-      <div class="related-card-img">${post.icon}</div>
+      <img src="${post.image}" alt="${post.title}" class="related-img" />
+      
       <div class="related-card-body">
         <p class="related-card-cat">${post.categoryLabel}</p>
         <h4 class="related-card-title">${post.title}</h4>
         <a href="${post.url}" class="related-card-link">Ler artigo →</a>
       </div>
     `;
+
     container.appendChild(card);
   });
 }
@@ -451,4 +469,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Delay scroll reveal to let DOM settle
   setTimeout(initScrollReveal, 100);
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  const banner = document.getElementById("cookieBanner");
+  const acceptBtn = document.getElementById("acceptCookies");
+  const rejectBtn = document.getElementById("rejectCookies");
+
+  const escolha = localStorage.getItem("cookieChoice");
+
+  if (!escolha) {
+    banner.style.display = "flex";
+  }
+
+  acceptBtn.addEventListener("click", function () {
+    localStorage.setItem("cookieChoice", "accepted");
+    banner.style.display = "none";
+  });
+
+  rejectBtn.addEventListener("click", function () {
+    localStorage.setItem("cookieChoice", "rejected");
+    banner.style.display = "none";
+  });
 });

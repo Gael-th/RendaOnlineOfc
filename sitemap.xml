@@ -1,15 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://seublog.netlify.app/</loc>
-    <lastmod>2025-01-12</lastmod>
+    <loc>https://rendaonlineofc.netlify.app/</loc>
+    <lastmod>2024-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://seublog.netlify.app/post.html</loc>
+    <loc>https://rendaonlineofc.netlify.app/afiliado.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+   <url>
+    <loc>https://rendaonlineofc.netlify.app/bancoparceiro.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/corretoracripto.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/crmprofissional.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/frelancer.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/livros.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/merketingdigital.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/monetizacao.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/rendaextra.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/rentabilidade.html</loc>
     <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/reserva.html</loc>
+    <lastmod>2026-15-4</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/privacidade.html</loc>
+    <lastmod>2026-1-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rendaonlineofc.netlify.app/termos.html</loc>
+    <lastmod>2026-1-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

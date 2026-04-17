@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seublog.netlify.app/sitemap.xml
+Sitemap: https://rendaonlineofc.netlify.app/sitemap.xml
